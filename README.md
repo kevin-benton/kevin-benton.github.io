@@ -44,3 +44,26 @@ Additionally, I am setting my github pages site to run from the main branch dire
 After setting up the initial site and testing basic functionality locally, I changed a few of the 
 defaults so that I could personalize the site. I then tested locally once more before pushing to 
 Github for testing.
+
+In detail, I changed the `_config.yml` file to show my content:
+
+```
+title: Kevin Benton
+email: krbenton@icloud.com
+description: >-
+  Personal site and blog.
+baseurl: ""
+domain: "kevin-benton.github.io"
+url: "https://kevin-benton.github.io"
+twitter_username: Kevin_R_Benton
+github_username: kevin-benton
+```
+
+I also changed the first post to the content of this README with the exception of this paragraph. Visit 
+my [site](https://kevin-benton.github.io) to view this as a blog post.
+
+## Next Steps
+
+I still have a lot I want to do with this site and I will link the next step of my improvements to this 
+post. I don't know how many posts I will do on this. In my next post I want to change the theme, add a 
+custom layout or 2, and add my resume to the about page. There may also be some other things so stay tuned.
