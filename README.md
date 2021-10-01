@@ -27,3 +27,20 @@ install. This seemed to be a quicker option and I don't foresee any issues with 
 install the Jekyll gem locally as suggested.
 
 Overall, the install process went smoothly. The documentation provided by Jekyll is sufficient.
+
+## Creating the Site
+
+Github has posted some good [documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) 
+for creating a site in a repo with Jekyll. For my site, I am going to serve Github pages from the 
+root directory instead of the `docs` directory like in the tutorial. To install in the root directory, 
+I had to add the `--force` flag to the `jekyll new` command.
+
+One issue not mentioned in the Github documentation is a small issue when using Jekyll 4.2.1 and 
+Ruby 3.0.0. The work around is simple and is mitigated by running the command `bundle add webrick` 
+in the site directory you have chosen after running `jekyll new --skip-bundle .`.
+
+Additionally, I am setting my github pages site to run from the main branch directly.
+
+After setting up the initial site and testing basic functionality locally, I changed a few of the 
+defaults so that I could personalize the site. I then tested locally once more before pushing to 
+Github for testing.
