@@ -20,13 +20,18 @@
 
 title: Kevin Benton
 email: krbenton@icloud.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Personal site and blog.
 baseurl: ""
-domain: "kevin-benton.github.io"
-url: "https://kevin-benton.github.io"
+domain: kevin-benton.github.io
+url: https://kevin-benton.github.io
+
 twitter_username: Kevin_R_Benton
 github_username: kevin-benton
+linkedin_username: krbenton
+
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
