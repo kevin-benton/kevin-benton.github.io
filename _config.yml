@@ -30,6 +30,9 @@ twitter_username: Kevin_R_Benton
 github_username: kevin-benton
 linkedin_username: krbenton
 
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 # Build settings
 theme: minima
 plugins:
