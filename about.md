@@ -52,7 +52,14 @@ I left Buckman in 2019 to take a job with a wonderful charity located here in Me
 Children's Research hospital. Check out my [now]({% link now.md %}) page to see why I chose to 
 accept a job here and what I work on.
 
+In December of 2020, I completed my Masters degree in computer science from Georgia Tech. It had always 
+been a dream of mine to graduate from Tech and I'm glad that an online option became available. My 
+concentration was machine learning and I highly recommend the [OMSCS](omscs-link) to anyone that is 
+interested. It was not easy by any means, but it is highly rewarding. Look for a blog post in the 
+future about my experiences, both the highs and lows, of this program.
+
 If you're interested in reaching out to me, my resume is available upon request. You can find my email 
 address in the footer of this and every page.
 
+[omscs-link]: https://omscs.gatech.edu
 [max-link]: https://max.tkelevator.com/global-en/
